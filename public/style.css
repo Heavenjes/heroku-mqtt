@@ -1,0 +1,87 @@
+
+html body{
+        height: 100%;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAJCXWzRf7OVetTgmpNugBsBvf_fmDYHu9mxIZZoRFBiI82ny");
+        background-size: cover;
+
+        background-attachment: fixed;
+       
+    }
+
+    .card{
+        height: 350px;
+        background-color: #0ad9fd9c;
+        border-width:5px;  
+    }
+    .form-control{
+        border-width:5px;  
+        border-style:groove;
+      
+    }
+    #status{
+        color: red;
+    }
+    button{
+        border-width:2px;  
+        border-style:ridge;
+    }
+    h4{
+       color: black; 
+       text-align: center;
+       margin-left: 10%;
+       margin-right: 10%;
+       background-color: #5351516b;
+       border-style: outset;
+    
+    }
+    h2{
+        font-family: fantasy;
+        text-align: center;
+        padding-top: 20px;
+    }
+     .table{
+        
+        overflow-y: auto; 
+        height: 200px;
+        background-color: #e409905d;
+        position: sticky;
+        top: 0; 
+     }
+    table th{ 
+        position: sticky;
+        top: 0; 
+        }
+
+    table  { 
+        
+        border-collapse: collapsed; 
+        width: 100%; 
+    }
+    td , tr { 
+        padding: 8px 16px;
+        border: 1px solid black;
+    }
+    th     { 
+        border: 1px solid black;
+        color: black;
+        
+    }
+.bg-info{
+        position: static;
+
+    }
+
+    /* .col1{
+        float: left;
+    }
+    .row{
+        float:right;
+    }
+     */
+    s
+    #btn-sub:hover{
+        color: blue;
+    }
+    #btn-unsub:hover{
+        color: rgb(184, 17, 25);
+    }
